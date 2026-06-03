@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Network: Solana](https://img.shields.io/badge/Network-Solana-9945FF)](https://solana.com)
 [![Token: $GitAgent](https://img.shields.io/badge/Token-%24GitAgent-00ff9d)](https://x.com/search?q=%24GitAgent&src=cashtag_click)
-[![X: @GitAgentAI](https://img.shields.io/badge/X-%40GitAgentAI-000000)](https://x.com/search?q=%24GitAgent)
+
 
 ---
 
