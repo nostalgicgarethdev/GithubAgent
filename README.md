@@ -37,7 +37,7 @@ $ gitagent scan --stream twitter
 ## Contract Address
 
 ```
-TBA — not yet deployed
+DwgLBM7QCKAyL4dCDkeNP6x9EppADZKbUuxVZSZYpump
 ```
 
 **Network:** Solana  
