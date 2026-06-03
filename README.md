@@ -6,6 +6,8 @@
 [![Network: Solana](https://img.shields.io/badge/Network-Solana-9945FF)](https://solana.com)
 [![Token: $GitAgent](https://img.shields.io/badge/Token-%24GitAgent-00ff9d)](https://x.com/search?q=%24GitAgent&src=cashtag_click)
 
+CA: DwgLBM7QCKAyL4dCDkeNP6x9EppADZKbUuxVZSZYpump
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6a11e32-0930-4920-b48a-078e24c1891f" />
 
 ---
