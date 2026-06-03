@@ -6,7 +6,7 @@ The `$GitAgent` token is the native token of the GitAgent protocol on Solana.
 
 **Contract Address:**
 ```
-TBA — not yet deployed
+DwgLBM7QCKAyL4dCDkeNP6x9EppADZKbUuxVZSZYpump
 ```
 
 ---
